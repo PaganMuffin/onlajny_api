@@ -1,0 +1,12 @@
+name = "api"
+type = "webpack"
+account_id = "6906e67d22573c5280a50c5cf9ab0605"
+workers_dev = true
+route = ""
+zone_id = ""
+kv_namespaces = [ 
+    { binding = "AO", preview_id = "17e35e233ec34f40acfedcb35347c356", id = "0ba3250baa54431ca195ee5a60378ea2" },
+    { binding = "SHINDEN", preview_id = "56a3cc1fc92c4738a1e638b47da5e484", id = "440350766c8744de90a648c50749a0d3" },
+    { binding = "UPDATE", id = "5fe5412db35140f5bbc12c7ecd1f2b8f", preview_id = "541f93d1a16e4d4ba8f4372ad828f452" }
+
+]
